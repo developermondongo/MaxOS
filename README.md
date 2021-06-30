@@ -1,1 +1,1 @@
-# FoenixXos is a Os in developement. This os will be launched on 2022
+# FoenixXos is a Os in developement. This os will be launched on 2021 Coming Soon!
