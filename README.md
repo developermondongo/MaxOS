@@ -1,1 +1,2 @@
-Uptade: Foenix OS STATE: 50% OF 100% OF PROGRESS
+Uptade: Foenix OS (MAXOS) STATE: 80% FINISHED,
+Release Date: 25 FEB 2022
