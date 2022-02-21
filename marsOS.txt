@@ -1,0 +1,20 @@
+
+ _____ ______   ________     ___    ___ ________  ________           ________  ________  ________  ___  ________           _____      ________     
+|\   _ \  _   \|\   __  \   |\  \  /  /|\   __  \|\   ____\         |\   __  \|\   __  \|\   ____\|\  \|\   ____\         / __  \    |\   __  \    
+\ \  \\\__\ \  \ \  \|\  \  \ \  \/  / | \  \|\  \ \  \___|_        \ \  \|\ /\ \  \|\  \ \  \___|\ \  \ \  \___|        |\/_|\  \   \ \  \|\  \   
+ \ \  \\|__| \  \ \   __  \  \ \    / / \ \  \\\  \ \_____  \        \ \   __  \ \   __  \ \_____  \ \  \ \  \           \|/ \ \  \   \ \  \\\  \  
+  \ \  \    \ \  \ \  \ \  \  /     \/   \ \  \\\  \|____|\  \        \ \  \|\  \ \  \ \  \|____|\  \ \  \ \  \____           \ \  \ __\ \  \\\  \ 
+   \ \__\    \ \__\ \__\ \__\/  /\   \    \ \_______\____\_\  \        \ \_______\ \__\ \__\____\_\  \ \__\ \_______\          \ \__\\__\ \_______\
+    \|__|     \|__|\|__|\|__/__/ /\ __\    \|_______|\_________\        \|_______|\|__|\|__|\_________\|__|\|_______|           \|__\|__|\|_______|
+                            |__|/ \|__|             \|_________|                           \|_________|                                            
+
+Welcome to MaxOS! a DOS Operating System Created by Max, 
+based on the assembly langauge, mars os and The MikeOS project.
+Commands: dir cat date ...
+Programs: Basic text editor, File manager, some games...
+credits : This OS is by Max! also,
+THANKS A LOT to Mike Saunders and 
+Josha Beck, who made this OS possible! 
+
+MikeOS Website: "http://mikeos.sourceforge.net/"
+Some RaNdOm Things: 45 41 53 54 45 52 2E 45 47 47 
